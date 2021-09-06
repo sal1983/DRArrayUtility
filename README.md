@@ -1,5 +1,5 @@
 # DRArrayUtility
-Custom formula function to achieve multiple array items into single object : 
+Vlocity Dataraptor Custom formula function to achieve multiple array items into single object : 
 
 EXAMPLE 1 : 
 
